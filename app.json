@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/afdulfauzan/python-aria-mirror-bot",
-    "website": "https://afdulfauzan.tech",
-    "success_url": "https://t.me/afdlfz_mirror_bot",
+    "repository": "https://github.com/tandob/python-aria-mirror-bot",
+    "website": "https://tandob.tech",
+    "success_url": "https://t.me/tandob_bot",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
@@ -47,7 +47,7 @@
         "required": false
       },
       "INDEX_URL": {
-        "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
+        "description": "Refer to https://github.com/tandob/GDIndex/ The URL should not have any trailing '/'.",
         "required": false
       },
       "TELEGRAM_API": {
